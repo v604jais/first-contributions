@@ -11173,3 +11173,4 @@ Anthony Stannard
 - [Nicholas Saquilayan](https://github.com/nsaquilayan)
 - [ZZ] (https://github.com/zachzager) be smart, be kind
 - [Greg Zil](https://github.com/gregzil)
+- [hr1shu](https://github.com/hr1shu)
